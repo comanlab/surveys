@@ -122,7 +122,7 @@ This test file provides a [Cypress](https://docs.cypress.io/guides/overview/why-
 We strongly recommend using existing survey tests as examples in constructing your own. For example:
 
 ```js
-// exampleSurvey.cy.js
+// exampleSurvey.cy.jsx
 
 import React from "react";
 import { ExampleSurvey } from "../../src/index";
