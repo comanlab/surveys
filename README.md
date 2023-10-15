@@ -47,3 +47,7 @@ Run this project in development by running `npm install` in the root directory t
 ### Testing
 
 ### Publishing
+
+## Acknowledgments
+
+This repository is modeled off of [@Watts-Lab/surveys](https://github.com/Watts-Lab/surveys/).
